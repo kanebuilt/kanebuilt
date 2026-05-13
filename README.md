@@ -28,7 +28,7 @@ I'm learning Ruby slowly -- mostly on Codecademy. From what I've learned, it's a
 
 ## Shell
 
-I primarily use `bash` and develop shell scripts for it *sometimes*. If I'm making an actual project, however, I'll be using Python or Ruby.
+I primarily use `bash` and develop shell scripts for it _sometimes_. If I'm making an actual project, however, I'll be using Python or Ruby.
 
 ---
 
