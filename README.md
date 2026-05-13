@@ -1,25 +1,40 @@
-<!-- You might want to use the Find & Replace tool in your editor to replace all mentions of "Template" (match caps) with your project's name. -->
+![Profile banner](./assets/banner.jpg)
 
-<h1>
-  <img src="./assets/icon.svg" alt="Template project icon" width="30" style="vertical-align: middle;">
-  Template
-</h1>
+# Howdy!
 
-> <!-- A short description of your project. Ideally, it should be about three sentences, and shouldn't contain technical terminology. If your reader has no clue what your project is, this block should tell them about it without having to read the rest. -->
+Hi, I'm Stanza (or Kane). I enjoy lower-level systems engineering (like kernels and OSes) and developing TurboWarp projects & extensions. You might know me for my work on the [Kamix microkernel](https://sites.google.com/view/kamixkernel).
 
-## Key Features
+I develop primarily in:
 
-- **A big thing:** A description of said big thing. Ideally, it should be three sentences long and not contain technical terminology. This section should have three features like this.
+## JavaScript/Typescript
 
-## How to Install
+JavaScript is the language of the Web. I mainly use JavaScript to code things like CLIs or my TurboWarp extensions.
 
-<!-- Give steps on how to safely install your project. If it's a website or something that doesn't need installing (like a protocol of sorts, or something else) then you can safely remove this section. -->
+## Podman/Docker containers
 
-## Documentation
+I love making containerized things. I previously ran a small VPS container named Virgo, which was a VPS inside a Docker container.
 
-For additional documentation on this project, see its [table of contents](./docs/toc.md).
+## Python
 
-## Quick Links
+I mostly use Python for CLIs. I'm not too smart with it (especially with PyPI), but I'm learning! I might switch to Ruby sometime.
 
-- [Project license](./LICENSE.md)
-- [Contributing guidelines](./CONTRIBUTING.md)
+## Scratch/TurboWarp
+
+Scratch is a visual programming language for kids, and TurboWarp is Scratch's "big-boy" evolution. I developed Kamix in TurboWarp, and I primarily make extensions for it.
+
+## Ruby
+
+I'm learning Ruby slowly -- mostly on Codecademy. From what I've learned, it's a good contender to replace Python in the easiest programming language debate.
+
+## Shell
+
+I primarily use `bash` and develop shell scripts for it _sometimes_. If I'm making an actual project, however, I'll be using Python or Ruby.
+
+---
+
+## Find me on:
+
+- [Twitter/X.com](https://x.com/stanzapaws)
+- [The Kamix Discord server](https://discord.gg/2waSz5YCjw)
+
+> By the way, credits to @mintpaws on X.com for the README banner.
