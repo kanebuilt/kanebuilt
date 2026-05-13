@@ -36,3 +36,5 @@ I primarily use `bash` and develop shell scripts for it *sometimes*. If I'm maki
 
 - [Twitter/X.com](https://x.com/stanzapaws)
 - [The Kamix Discord server](https://discord.gg/2waSz5YCjw)
+
+> By the way, credits to @mintpaws on X.com for the README banner.
