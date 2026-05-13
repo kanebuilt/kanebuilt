@@ -1,3 +1,5 @@
+![Profile banner](./assets/banner.jpg)
+
 # Howdy!
 
 Hi, I'm Stanza (or Kane). I enjoy lower-level systems engineering (like kernels and OSes) and developing TurboWarp projects & extensions. You might know me for my work on the [Kamix microkernel](https://sites.google.com/view/kamixkernel).
